@@ -89,7 +89,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Watch the demo video](./download.mp4)
+[[Watch the demo video](./download.mp4)](https://raw.githubusercontent.com/flAva-ai/.github/main/profile/download.mp4)
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
