@@ -89,7 +89,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-https://github.com/username/repository/assets/123456789/video.mp4
+https://github.com/flAva-ai/.github/raw/refs/heads/main/profile/download.mp4
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
