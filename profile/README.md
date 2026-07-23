@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/b78c116d-fedd-4aee-a834-fb568807fcf0
 
 
 
@@ -93,7 +92,7 @@ https://github.com/user-attachments/assets/b78c116d-fedd-4aee-a834-fb568807fcf0
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[[Watch the demo video](./download.mp4)](https://raw.githubusercontent.com/flAva-ai/.github/main/profile/download.mp4)
+https://github.com/user-attachments/assets/b78c116d-fedd-4aee-a834-fb568807fcf0
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
