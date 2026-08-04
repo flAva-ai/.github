@@ -25,7 +25,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<p align="center">
+<div align="center"> 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/flava-ai/flava)
 ![GitHub forks](https://img.shields.io/github/forks/flava-ai/flava)
@@ -34,7 +34,7 @@
 ![GitHub License](https://img.shields.io/github/license/flAva-ai/flava)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffl-ava.vercel.app&link=https%3A%2F%2Ffl-ava.vercel.app)
 
-</p>
+</div>
 
 ![AwsDiagram](https://flava-ai.github.io/logo.svg)
 
