@@ -52,7 +52,7 @@
     <a href="https://github.com/flAva-ai/flAva-ai.github.io/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://flowc0de.vercel.app">View Demo</a>
     &middot;
     <a href="https://github.com/flAva-ai/flava/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
