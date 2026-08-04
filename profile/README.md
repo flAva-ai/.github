@@ -36,7 +36,7 @@
 
 </div>
 
-![AwsDiagram](https://flava-ai.github.io/logo.svg)
+![AwsDiagram](https://flava-ai.github.io/logo2.svg)
 
 
 
