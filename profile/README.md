@@ -30,7 +30,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/flava-ai/flava)
 ![GitHub Issues](https://img.shields.io/github/issues/flava-ai/flava)
 ![GitHub License](https://img.shields.io/github/license/flAva-ai/flava)
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![Website](https://img.shields.io/website?url=https%3A%2F%2Ffl-ava.vercel.app)
 ![AwsDiagram](https://flava-ai.github.io/logo.svg)
 
 
