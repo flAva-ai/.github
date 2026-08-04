@@ -264,12 +264,12 @@ Use this space to list resources you find helpful and would like to give credit 
 [contributors-shield]: https://img.shields.io/github/contributors/flAva-ai/flava.svg?style=for-the-badge
 [contributors-url]: https://github.com/flAva-ai/flava/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/flAva-ai/flava.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/flAva-ai/flava/network/members
+[forks-url]: https://github.com/flAva-ai/flava/network/members
 [stars-shield]: https://img.shields.io/github/stars/flAva-ai/flava.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/flAva-ai/flava/stargazers
+[issues-shield]: https://img.shields.io/github/issues/flAva-ai/flava.svg?style=for-the-badge
+[issues-url]: https://github.com/flAva-ai/flava/issues
+[license-shield]: https://img.shields.io/github/license/flAva-ai/flava.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
