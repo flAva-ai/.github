@@ -31,7 +31,7 @@
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![AwsDiagram](https://markdown-inline-svg.vitalibo.click/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&name=aws.svg)]
 
 
 
@@ -42,7 +42,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-![AwsDiagram](https://markdown-inline-svg.vitalibo.click/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&name=aws.svg)
+
 
   <h3 align="center">Best-README-Template</h3>
 
