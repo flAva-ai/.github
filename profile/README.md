@@ -35,8 +35,9 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffl-ava.vercel.app&link=https%3A%2F%2Ffl-ava.vercel.app)
 
 </div>
-
+<div align="center"> 
 ![AwsDiagram](https://flava-ai.github.io/logo2.svg)
+</div>
 
 
 
