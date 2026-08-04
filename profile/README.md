@@ -264,8 +264,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [contributors-shield]: https://img.shields.io/github/contributors/flAva-ai/flava.svg?style=for-the-badge
 [contributors-url]: https://github.com/flAva-ai/flava/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/flAva-ai/flava.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/flAva-ai/flava/network/members
+[stars-shield]: https://img.shields.io/github/stars/flAva-ai/flava.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
