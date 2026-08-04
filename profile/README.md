@@ -3,7 +3,7 @@
 
 
 
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/flAva-ai/flava/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -39,7 +39,7 @@
 <!-- PROJECT LOGO -->
 
 <div align="center">
-<!--  <a href="https://github.com/othneildrew/Best-README-Template">
+<!--  <a href="https://github.com/flAva-ai/flava">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 -->
@@ -270,7 +270,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-shield]: https://img.shields.io/github/issues/flAva-ai/flava.svg?style=for-the-badge
 [issues-url]: https://github.com/flAva-ai/flava/issues
 [license-shield]: https://img.shields.io/github/license/flAva-ai/flava.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/flAva-ai/flava/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
