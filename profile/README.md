@@ -27,7 +27,7 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+![GitHub Repo stars](https://img.shields.io/github/stars/flava-ai/flava)
 ![GitHub Issues](https://img.shields.io/github/issues/flava-ai/flava)
 ![GitHub License](https://img.shields.io/github/license/flAva-ai/flava)
 [![LinkedIn][linkedin-shield]][linkedin-url]
