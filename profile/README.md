@@ -29,7 +29,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
+[![GitHub License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![AwsDiagram](https://flava-ai.github.io/logo.svg)
 
