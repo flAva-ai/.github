@@ -35,7 +35,7 @@
 <!--
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ffl-ava.vercel.app&link=https%3A%2F%2Ffl-ava.vercel.app)(http://https://flave.vercela.pp)]
 -->
-<a href="https://github.com/flAva-ai/flava/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/flava-ai/flava" /></a><a href="https://fl-ava.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Ffl-ava.vercel.app" alt="Website" /></a>
+<a href="https://github.com/flAva-ai/flava/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/flava-ai/flava" /></a> <a href="https://fl-ava.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Ffl-ava.vercel.app" alt="Website" /></a>
 
 </div>
 <div align="center"> 
