@@ -49,10 +49,8 @@
 <!--  <a href="https://github.com/flAva-ai/flava">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+<h3 align="center">FlAva</h3>
 -->
-
-  <h3 align="center">FlAva</h3>
-
   <p align="center">
  Welcome To Our FlAva 
     <br />
