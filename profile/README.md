@@ -32,8 +32,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/flava-ai/flava)
 ![GitHub Issues](https://img.shields.io/github/issues/flava-ai/flava)
 ![GitHub License](https://img.shields.io/github/license/flAva-ai/flava)
+<!--
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ffl-ava.vercel.app&link=https%3A%2F%2Ffl-ava.vercel.app)(http://https://flave.vercela.pp)]
-
+-->
   <a href="https://fl-ava.vercel.app">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Ffl-ava.vercel.app" alt="Website">
   </a>
